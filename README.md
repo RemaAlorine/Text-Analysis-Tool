@@ -2,7 +2,7 @@
 a tool that will read as an input a text file and then perform several word analytics tasks
 
 
-<h2>Operations:</h2>
+<h2>Operations: </h2>
 
 
 <p>(1) An operation to determine the total number of words in a text file (i.e., the length of 
